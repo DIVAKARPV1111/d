@@ -21,13 +21,7 @@ print(blu.dance())
 for x in range(2, 6):
  print(x)
 
- i = 1
- while i < 6:
-  print(i)
-   if i == 3:
-     break
-   i += 1
-  
+ 
   class Parrot:
   
    def fly(self):
