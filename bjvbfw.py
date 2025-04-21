@@ -47,7 +47,7 @@ for x in range(2, 6):
   peggy = Penguin()
   
   # passing the object
-  flying_test(blu)
+  
   flying_test(peggy)loop([timeout[,)
                 
 Function
